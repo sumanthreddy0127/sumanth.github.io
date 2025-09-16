@@ -1,4 +1,4 @@
-# sumanth.github.io
+
 # 👋 Hi, I'm Sumanth Reddy
 
 🔐 **Identity & Access Management (IAM) Engineer | Cybersecurity & DevSecOps Specialist**
