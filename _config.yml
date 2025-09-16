@@ -1,0 +1,5 @@
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: SUMANTH REDDY
+description: I focus on cybersecurity, identity security, and DevSecOps, with capabilities spanning threat detection, incident response, and secure infrastructure design. My experience covers SOC practices such as SIEM monitoring, log analysis, and threat hunting using frameworks like MITRE ATT&CK and NIST CSF. I work with tools like CrowdStrike, Proofpoint, and Splunk to identify and contain threats, while also implementing IAM solutions with ForgeRock, Ping Identity, SailPoint, and Okta. On the DevSecOps side, I integrate security automation into CI/CD pipelines, leveraging Terraform, Kubernetes, and Ansible for infrastructure hardening, policy-as-code, and compliance enforcement. My focus is on reducing risk, strengthening cloud security (AWS/Azure), and aligning access governance with zero-trust and regulatory frameworks.
